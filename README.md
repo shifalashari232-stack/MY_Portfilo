@@ -41,15 +41,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salarmastoi110&theme=maroongold&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shifa lashari&theme=maroongold&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salarmastoi110&show_icons=true&theme=maroongold&hide_border=false&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shifa lashari&show_icons=true&theme=maroongold&hide_border=false&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salarmastoi110&layout=compact&theme=maroongold&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifa lashari&layout=compact&theme=maroongold&hide_border=false" />
 </p>
 
 ---
